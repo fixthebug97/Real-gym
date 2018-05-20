@@ -1,0 +1,1076 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#000;}
+*{margin:auto;}
+#wrapper
+{width:996px;
+overflow:auto; 
+background:url(Bodybuilding-At-Gym.jpg) no-repeat center top;
+background-attachment: fixed;
+
+}
+
+@media screen and (max-width: 760px){
+
+  #wrapper{
+
+    width: 400px;
+  }
+}
+
+#sidebar{ width:90%; 
+overflow:auto; 
+background:#848484;
+float:left; 
+margin-left:30px; 
+border-radius:10px 10px 10px 10px; 
+margin-bottom:20px;}
+
+#sidebar h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+ 
+ font-size:18px; 
+ color:#484848; 
+ margin-left:20px; 
+ margin-top:10px; 
+ 
+ }
+#sidebar1{width:15%; 
+overflow:auto; 
+background:transperent;
+float:left; 
+margin-left:30px;}
+
+
+#nav
+{width:90%;
+background:rgba(67,67,67,1.00);
+overflow:auto; 
+margin-top:20px; 
+
+}
+#logo
+{width:30%;
+float:left;
+margin-left:10px;  
+overflow:auto; 
+margin-bottom:5px; }
+
+#container-e{width:100%;  
+overflow:auto; 
+background:#FDFDFD; 
+margin-bottom:20px;}
+
+
+#container11{width:90%; 
+background:#FBFBFB; 
+opacity:0.85;  
+overflow:auto;}
+
+#boxo{width:30%; 
+background:transperent; 
+float:left; 
+margin-left:20px; 
+overflow:auto;  
+margin-top:20px;
+}
+
+#boxo img { -webkit-transition: -webkit-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out;
+}
+#boxo img:hover {-webkit-transform: rotate(360deg);
+  transform: rotate(360deg);}
+
+
+
+
+#suggestion-3{width:90%; 
+overflow:auto; 
+background-color: #494f5c; 
+background-image:url(pattern.png);}
+#box1 h1{font-family: 'Open Sans', sans-serif; 
+font-size:24px; 
+color:#F9F9F9; 
+margin-left:40px;}
+
+#box2 h2{font-family: 'Open Sans', sans-serif; 
+font-size:18px; 
+color:#F36B36; 
+margin-left:40px; 
+margin-top:10px;}
+#box2 p{font-family: 'Open Sans', sans-serif; 
+font-size:16px; 
+color:#000000; 
+margin-left:40px; 
+margin-bottom:10px;}
+#box2 a{float:left; 
+margin-left:20px; 
+color:#000000;  
+font-size:18px; 
+margin-bottom:10px;
+} 
+#box2 b{float:right;  
+margin-right:20px;
+}
+
+#link{width:20%; 
+float:left; 
+margin-left:20px; 
+overflow:auto;
+background:#2D4DE4;  
+border-radius:50%; 
+border-style:solid; 
+border-color:#000000; 
+margin-top:20px; 
+margin-bottom:20px;
+}
+
+#box1{width:30%; 
+background:#3255C3; 
+background-image:url(pattern.png); 
+overflow:auto; 
+opacity:0.85; 
+float:left; 
+margin-left:20px; 
+opacity:0.86}
+
+#box2{width:30%; 
+background:#3F3F3F;
+overflow:auto; 
+float:left; 
+margin-left:20px; 
+margin-bottom:20px;}
+
+
+
+
+#slogan4{width:80%; 
+float:left; 
+margin-left:60px; 
+background:#8E8E8E; 
+overflow:auto; 
+opacity:0.3;}
+
+
+
+
+#slider8{width:90%; 
+background-image:url(bgp.jpg);  
+overflow:auto;}
+#container10{width:90%; 
+overflow:auto; 
+background:#5B5B5B; 
+background-image:url(pattern.png);
+}
+#section6{width:80%; 
+float:left; 
+overflow:auto; 
+margin-left:60px; 
+margin-bottom:30px;}
+
+#m-box{width:30%; 
+float:right;  
+background:#171717; 
+overflow:auto; 
+border-style:solid; 
+border-color:#000000;
+background-image:url(pattern.png); 
+opacity:0.85;
+}
+
+#slogan4 h1{font-family: 'Open Sans', sans-serif; 
+color:#000000;
+font-size:24px; 
+margin-left:60px; }
+
+
+#m-box h1{font-family: 'Open Sans', sans-serif; 
+color:#FFFFFF; 
+font-size:18px; 
+margin-left:60px; 
+margin-bottom:20px;}
+#m-box1 h1{font-family: 'Open Sans', sans-serif; 
+color:#060606;
+font-size:18px; 
+margin-left:60px;
+margin-bottom:20px;}
+#m-box2 h1{font-family: 'Open Sans', sans-serif; 
+color:#A2A7A0;
+font-size:18px; 
+margin-left:60px;
+margin-bottom:20px;}
+
+
+
+#m-box1{width:30%; 
+float:right;  
+background:#858585;
+overflow:auto; 
+background-image:url(pattern.png); 
+opacity:0.85;
+border-style:solid; 
+border-color:#000000;}
+
+#m-box2{width:30%; 
+float:right;  
+background:#023521;
+overflow:auto; 
+border-style:solid; 
+border-color:#000000;}
+
+
+
+
+
+#container9{width:90%; 
+background:#FFFFFF; 
+overflow:auto;  
+
+} 
+#suggestion h1{font-size:18px; 
+font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif; 
+color:#1887B5; 
+margin-left:20px;}
+#suggestion{width:90%; 
+background:#FFFFFF;
+overflow:auto;}
+#suggestion-1{width:20%; 
+background:transperent;
+float:left; 
+margin-left:30px;
+overflow:auto;}
+
+#suggestion-2{width:20%; 
+background:transperent;
+float:left; 
+margin-left:30px;
+overflow:auto; 
+margin-bottom:20px;}
+#suggestion-2 a{font-size:14px;}
+
+
+
+
+#section-c{width:40%; 
+background:#FFFFFF; 
+overflow:auto; 
+float:left;  
+margin-left:10px; 
+
+}
+
+#section4{width:90%; 
+background:#FFFFFF;
+float:left; 
+overflow:auto;  
+margin-top:20px;
+} 
+#section4 p{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+color:#505050;
+font-size: 14px; 
+text-align:justify;
+}
+#section5 h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+
+color:#054397;
+font-size: 24px; 
+margin-left:10px;
+text-align:center; 
+margin-top:50px;}
+#section5{width:90%; 
+background:#FFFFFF; 
+overflow:auto;
+float:left;  
+margin-bottom:30px;
+}
+
+#section5 p{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+color:#000000;
+font-size: 14px; 
+text-align:justify; 
+margin-left:10px; 
+}
+
+#slogan3{width:90%; 
+background:#FCFCFC; 
+overflow:auto; 
+float:left;}
+#baap{width:60%; 
+overflow:auto; 
+float:left; 
+}
+#slogan3 h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+
+color:#000000;
+font-size: 24px; 
+margin-left:10px;
+text-align:center;} 
+#slogan3 p{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+
+color:#505050;
+font-size: 14px; 
+
+}
+#aside-4{width:40%; 
+float:right; 
+background:transperent;
+overflow:auto;}
+
+#aside-a{width:90%; 
+overflow:auto; 
+background:#FFFFFF; 
+border-style:solid; 
+border-color:#000000; 
+}
+
+#aside-a h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+margin-top:10px;
+color:#0A72A4;
+font-size: 18px; 
+margin-left:10px;
+text-align:center;}
+#video{width:100%; 
+overflow:auto; 
+float:left; 
+background:transperent;
+margin-top:10px; 
+margin-bottom:10px;
+}
+#para{ width:30%; 
+float:right; 
+background:transperent; 
+margin-top:40px; 
+margin-right:10px;}
+
+#para p{text-align:justify;}
+
+#videos
+{width:50%; 
+float:left; 
+margin-left:20px; 
+overflow:auto; 
+background:#000000;  
+margin-top:30px; 
+
+}
+
+
+#slogan-a{width:20%; 
+border-radius:50%; 
+background:#FFFFFF; 
+overflow:auto; 
+float:left; 
+margin-left:10px;
+margin-top:10px;  
+
+}
+#slogan-a img{ -webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+#slogan-a img:hover {
+
+  -webkit-transform: rotate(720deg);
+     -moz-transform: rotate(720deg);
+       -o-transform: rotate(720deg);
+      -ms-transform: rotate(720deg);
+          transform: rotate(2880deg);
+}
+
+#slider6{width:90%; 
+overflow:auto; 
+background-image:url(WelcomePage-2.jpg);}
+#slider7{width:90%; 
+overflow:auto; 
+background-image:url(gym.jpg);}
+#slogan2{width:40%; 
+overflow:auto; 
+float:left; 
+margin-left:20px;
+margin-bottom:20px;}
+
+#slogan2 h1{font-family: 'Terminal Dosis', sans-serif;
+float: left;
+color: #FFF;
+font-size:24px;}
+#container8
+{width:90%; 
+overflow:auto; 
+background:#FFF; 
+margin-bottom:20px; 
+opacity:0.88;
+}
+#aside-3{width:20%; 
+float:left; 
+margin-left:10px; 
+overflow:auto; 
+background:transperent;}
+#aside-logo{width:50%; 
+border-radius:50%; 
+overflow:auto; 
+background:#DCDB22;
+margin-top:20px;
+}
+#section3{width:70%; 
+float:right; 
+overflow:auto; 
+background:transperent;
+margin-right:30px; 
+margin-top:40px;
+}
+#section-img{width:30%; 
+overflow:auto; 
+float:left; 
+margin-left:20px; 
+background:#FFF;}
+#section-img img{-webkit-transition: -webkit-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out;}
+#section-img img:hover{-webkit-transform: rotate(360deg);
+  transform: rotate(360deg);}
+#section-b{width:60%; 
+background:#FFF; 
+overflow:auto; 
+float:right; 
+margin-right:20px; 
+margin-bottom:10px;}
+#section-b p{font-family:Verdana, Geneva, sans-serif;
+font-size:16px; 
+color:#333;}
+#container7
+{width:90%; 
+overflow:auto; 
+background:#000; 
+opacity:0.85;
+}
+
+#spa-e{width:70%; 
+overflow:auto;
+float:left; 
+margin-bottom:10px; 
+margin-left:10px;}
+
+#spa-e p{font-family:Verdana, Geneva, sans-serif;
+font-size:16px; 
+color:#333;}
+#spa-h1{width:90%; 
+overflow:auto;
+background:#333; 
+margin-top:10px;
+}
+
+#spa-h1 h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+
+color:#FFF;
+font-size: 24px; 
+margin-left:10px;
+text-align:center;}
+
+#spa-1{width:90%; 
+background:rgba(255,255,255,1.00); 
+overflow:auto; 
+
+}
+
+
+#spa-2{width:90%;
+background:transperent;
+overflow:auto;
+
+}
+#spa-d{width:30%; 
+background:#696969;
+float:left; 
+margin-left:20px; 
+border-radius:0px 0px 10px 10px; 
+margin-bottom:20px;}
+#spa-c{width:30%; 
+background:rgba(163,163,163,1.00); 
+float:left; 
+margin-left:20px;  
+margin-top:20px;
+border-radius:10px 10px 0px 0px;}
+#spa-a{width:20%; 
+background:transperent;
+border-radius:10px 10px 10px 10px; 
+float:left; 
+margin-left:20px; 
+overflow:auto;}
+#spa-c h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+float:left;
+color: #000000;
+font-size: 24px; 
+margin-left:40px;}
+ #spa-d p {font-family: 'Terminal Dosis', sans-serif; 
+font-size:16px; 
+color:#000000;
+margin-left:10px;  
+margin-bottom:10px;}
+
+#spa-1 h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+float:left;
+color: #000000;
+font-size: 20px; 
+margin-left:10px;
+ margin-top:10px;
+}
+
+
+
+#slider5{width:90%; 
+overflow:auto;  
+background:rgba(0,0,0,1.00);
+}
+#slider5 h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+color: #48929a;
+font-size: 40px;
+text-align:center;
+}
+#side{width:20%; 
+background:#48929a; 
+float:right; 
+margin-top:10px;
+margin-right:10px;}
+#side h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif;
+float:left;
+color: #F7F7F7;
+font-size: 18px; 
+margin-left:10px; 
+margin-top:10px;}
+
+
+#container6
+{width:90%; 
+overflow:auto; 
+background:rgba(0,0,0,1.00);
+}
+
+#f-section
+{width:50%; 
+overflow:auto;
+ float:left; 
+ background:#000;
+}
+#f-section1{width:80%; 
+overflow:auto; 
+background:#000; color:#FFF;
+}
+
+.txt{width:200px; height:20px;}
+
+#f-aside{width:40%; 
+background:transperent;
+float:right;  
+margin-right:20px;
+overflow:auto; 
+}
+#f-section1 h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif; 
+font-size:28px; 
+margin-left:20px; 
+color:rgba(7,99,150,1.00); 
+margin-top:20px;}
+
+#f-section1 a{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif; 
+font-size:18px;  
+color:#AB0A0C;
+}
+#f-section p{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif; 
+font-size:18px;  
+color:#FFF;
+text-align:center;
+}
+
+#aside-1{width:80%; 
+overflow:auto;
+background:transperent;
+margin-top:10px;}
+#aside-2{width:90%; 
+overflow:auto; 
+background:#FFFFFF;
+margin-top:20px; 
+border-radius:50%; 
+}
+#aside-1 h1{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif; 
+font-size:40px;  
+color: #48929a;}
+#aside-1 h2{font-family: "Typ1451-Medium", Helvetica, Arial, sans-serif; 
+font-size:40px;  
+color:#FFFFFF;}
+
+#slider
+{width:90%;
+background:rgba(0,0,0,1.00);
+overflow:auto;
+margin-top:20px;
+} 
+#slider3{width:90%; 
+overflow:auto; 
+background-image:url(Group%20Cycling%203_920x550.jpg);}
+
+#slider1{width:90%; 
+overflow:auto; 
+background-image:url(UPT-gym-31.jpg);}
+
+
+#slider4{width:90%; 
+overflow:auto; 
+background-image:url(swim5.jpg);}
+
+#container5{width:90%; 
+overflow:auto; 
+background:rgba(249,249,249,1.00); 
+opacity:0.85;}
+
+#section1{width:80%; 
+overflow:auto; 
+background:transperent;
+float:left;
+margin-left:10px; 
+margin-top:40px; 
+margin-bottom:20px;} 
+#section2{width:30%; 
+background:transperent;
+overflow:auto; 
+float:right;
+
+}  
+#name{width:60%; 
+overflow:auto; 
+float:left;}
+#clock{width:30%; 
+overflow:auto; 
+float:left; 
+margin-left:10px;}
+
+#section-a{width:90%; 
+float:left; 
+margin-left:10px; 
+background:rgba(249,249,249,1.00); 
+margin-top:30px; 
+border-style:solid; 
+border-color:rgba(43,43,43,1.00);}
+#section-a h1{font-family: 'Terminal Dosis', sans-serif; 
+font-size:24px; 
+color:#CF3F41; 
+float:right; 
+margin-right:10px;
+}
+#section-a a{font-family: 'Terminal Dosis', sans-serif; 
+font-size:16px; 
+color:#6E6E6E;
+float:left; 
+margin-left:10px;  
+margin-bottom:10px;} 
+#section-a p {font-family: 'Terminal Dosis', sans-serif; 
+font-size:16px; 
+color:#6E6E6E;
+float:right ;
+margin-right:10px; 
+margin-bottom:10px;}
+
+
+#section1 h1{font-family: 'Terminal Dosis', sans-serif; 
+font-size:24px; 
+color:rgba(0,0,0,1.00); 
+margin-left:20px;} 
+
+#section1 p{font-family: 'Terminal Dosis', sans-serif; 
+font-size:16px; 
+color:rgba(0,0,0,1.00); 
+margin-right:10px;
+text-align:justify; 
+float:right;} 
+
+#section1 a{font-family: 'Terminal Dosis', sans-serif; 
+font-size:16px; 
+color:#D32326;
+margin-left:10px;} 
+
+
+
+#container4{width:90%; 
+overflow:auto; 
+background:rgba(253,253,253,1.00);}
+#gallery1{width:30%; 
+overflow:auto; 
+background:#B3B3B3; 
+float:left;
+margin-left:20px; 
+margin-top:20px; 
+border-radius:10px 10px 0px 0px;}
+#heading2
+{width:30%; 
+overflow:auto; 
+background:#B3B3B3;
+float:left;
+margin-left:20px;
+border-radius: 0px 0px 10px 10px;
+}
+
+#heading2 a{font-family: 'Terminal Dosis', sans-serif; 
+font-size:18px; 
+color:rgba(0,0,0,1.00); 
+margin-left:20px; 
+}
+
+#heading h1{font-family: 'Terminal Dosis', sans-serif; 
+font-size:18px; 
+color:rgba(0,0,0,1.00);}
+
+#heading p{font-family: 'Terminal Dosis', sans-serif; 
+font-size:14px; 
+color:rgba(0,0,0,1.00); 
+text-align:justify;}
+#heading{width:80%; 
+overflow:auto; 
+margin-bottom:20px;
+}
+#box{width:90%; 
+overflow:auto; 
+margin-bottom:30px;}
+
+#slogan{width:50%; 
+background:transperent;
+float:left; 
+margin-left:20px;
+overflow:auto;}
+
+#slogan h1{float: left;
+color:#FFFFFF;
+line-height: 120px;
+padding: 0 0 0 30px;
+text-shadow: 1px 1px #000;
+font-family: 'Terminal Dosis', sans-serif;}
+
+#container3{width:90%; 
+background:#151515;
+overflow:auto;  
+opacity:0.85; 
+}
+
+#slider2{width:90%; 
+overflow:auto; 
+background-image:url(gym-ball-exercises.jpg);}
+#slogan1{width:40%; 
+overflow:auto; 
+float:left; 
+margin-left:20px;
+margin-bottom:20px;}
+
+#slogan1 h1{font-family: 'Terminal Dosis', sans-serif;
+float: left;
+color: #000000;
+font-size:24px;}
+
+#aboutus{width:60%; 
+background:rgba(120,120,120,1.00); 
+border-radius:15px 15px 15px 15px; 
+overflow:auto; 
+float:left;
+margin-left:10px;
+margin-bottom:10px;}
+
+#aboutus1{width:70%; 
+background:transperent;
+border-radius:15px 15px 15px 15px; 
+overflow:auto; 
+float:left;
+margin-left:10px;
+margin-bottom:10px;}
+
+#aboutus h1{float: left;
+color:#000000;
+line-height: 120px;
+padding: 0 0 0 30px;
+text-shadow: 1px 1px #000;
+font-family: 'Terminal Dosis', sans-serif; 
+margin-left:20px;}
+
+#about{width:80%; 
+overflow:auto; 
+float:left; 
+margin-bottom:20px;}
+
+
+#logos{width:20%; 
+background:rgba(44,44,44,1.00); 
+float:left; 
+margin-left:20px; 
+overflow:auto; 
+margin-bottom:10px; 
+border-radius:50%;}
+
+
+#about p{float: left;
+color:#000000;
+font-size:16px;
+font-family: 'Terminal Dosis', sans-serif; 
+margin-left:20px; 
+text-align:justify;}
+
+#fact{width:30%; 
+float:right;
+margin-right:10px;
+overflow:auto; 
+background:transperent; 
+margin-bottom:10px; 
+border-radius:15px 15px 15px 15px;}
+#fact1{width:90%; 
+float:left; 
+margin-left:10px; 
+margin-top:20px; 
+overflow:auto; 
+background:rgba(120,120,120,1.00); 
+border-radius:10px 10px 10px 10px;}
+#fact1 h1{color:#D7F81F;
+font-size:24px;
+font-family: 'Terminal Dosis', sans-serif; 
+margin-left:20px; 
+margin-top:10px; }
+#fact2{width:90%; 
+float:left; 
+margin-left:10px; 
+margin-top:20px; 
+overflow:auto; 
+background:transperent; }
+#fact2 p{font-size:14px; 
+font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif; 
+color:#000000;}
+
+#bulp{width:60%; 
+overflow:auto; 
+float:left; 
+margin-left:30px; 
+background:rgba(248,248,248,1.00); 
+margin-bottom:10px;}
+
+#section
+{width:90%; 
+background:rgba(0,0,0,1.00);
+overflow:auto;
+}
+#section_box
+{width:30%; 
+background:transperent;
+overflow:auto;
+float:left;
+margin-left:20px;}
+#s_logo
+{width:38%;
+background:rgba(249,244,244,1.00);
+border-radius:50%;
+overflow:auto; 
+float:left;
+margin-left:5px; 
+margin-bottom:10px;
+}
+#section_box h1
+{
+color:rgba(247,244,244,1.00); 
+font:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; 
+font-size:24px; 
+
+}
+#s_p
+{width:50%;
+float:right;
+ background:transperent;
+ overflow:auto;}
+ #s_p a{text-align:justify; 
+ margin-bottom:5px; 
+ color:#ACA3A3; 
+ text-decoration:none;}
+#s_p:hover a{color:rgba(205,3,6,1.00);}
+
+
+#container{width:90%; 
+background:#FBFBFB;
+overflow:auto;
+}
+
+#container1{width:30%; 
+float:left; 
+margin-left:20px; 
+background:transperent; 
+overflow:auto; 
+margin-bottom:20px;}
+#container1 h1{font-family: 'Terminal Dosis', sans-serif;
+font-weight: normal;
+color: #252525;
+font-size: 21px; 
+margin-left:20px; 
+margin-top:10px;
+} 
+
+#container-a{width:90%; 
+float:left; 
+margin-left:10px; 
+margin-top:20px; 
+overflow:auto; 
+background:transperent;}
+
+
+#container-b{width:90%; 
+float:left; 
+margin-left:10px; 
+margin-top:20px; 
+overflow:auto; 
+background:rgba(247,247,247,1.00);}
+
+#container-b a{font-family: 'Terminal Dosis', sans-serif;
+font-weight: normal;
+color:#C40F12;
+font-size: 14px; 
+}
+
+#container-b p{font-family: 'Terminal Dosis', sans-serif;
+font-weight: normal;
+color:#262626;
+font-size: 14px; 
+}
+
+#container2{width:90%; 
+background:transperent;
+float:left; 
+margin-left:10px;
+margin-top:20px; 
+overflow:auto;}
+
+#comma
+{width:20%; 
+float:left;
+margin-left:30px;
+overflow:auto;}
+
+#container-c{width:30%; 
+float:left; 
+margin-left:10px; 
+margin-bottom:10px;
+overflow:auto; 
+background:transperent;
+border-radius:10px 10px 10px 10px;}
+#container-d{width:60%; 
+float:right; 
+margin-right:10px; 
+margin-bottom:10px;
+ overflow:auto;
+ background:rgba(255,255,255,1.00);}
+
+
+#container-d h1{font-family: 'Terminal Dosis', sans-serif;
+font-weight: normal;
+color: #B71A1D;
+font-size: 14px; 
+}
+ 
+ #container-d p{font-family: 'Terminal Dosis', sans-serif;
+color: #000000;
+font-size: 14px; 
+}
+#footer
+{width:90%;
+background:rgba(0,0,0,1.00); 
+overflow:auto;}
+.menu{
+    
+   margin:0;
+  margin: 0 0 0 20px;
+  
+}
+.menu li{
+   list-style: none;
+  display:block; 
+  
+}
+
+.menu li a{
+	color: transparent;
+float:right;
+	text-transform: uppercase;
+	text-shadow: 0px 0px 5px #fff;
+	letter-spacing: 1px;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	padding: 10px 10px 10px 10px;
+}
+.menu li.current a{ color:#C51114;
+text-shadow: 0px 0px 5px #C51114;
+  }
+.menu:hover li a{
+	text-shadow: 0px 0px 5px #0d1a3a;
+}
+.menu li a:hover{
+	color: #fff;
+	text-shadow: 0px 0px 1px #fff;
+	padding-left: 10px;
+}
+#boxes
+{width:30%; 
+overflow:auto; 
+background:transperent;
+float:left; 
+margin-left:20px;
+}
+
+#boxes h1{float:left;
+margin-left:30px;
+ font-family:'Terminal Dosis', sans-serif; 
+ color:rgba(232,227,227,1.00); 
+ margin-bottom:10px; 
+ font-size:18px;
+ }
+ 
+ #boxes p
+ {text-align:justify;
+ color:rgba(239,231,232,1.00);}
+ ul.list {
+padding: 0 0 0 0;
+margin: 0px;
+clear: both;
+float: left;
+}
+ul.list li {
+padding: 0 0 10px 20px;
+margin: 0px;
+line-height: 18px; 
+color:rgba(248,245,245,1.00);
+}
+ul.list li a{color:rgba(208,51,53,1.00);} 
+#socials{width:60%; 
+background:transperent;
+float:left;
+overflow:auto;} 
+a img {
+border: none;}
+a {
+color: #dd3134;
+text-decoration: none;
+}
+#footer_content
+{width:90%;
+background-color:transperent;
+overflow:auto;
+border-top: 1px #1f2024 solid;
+margin-top:20px;
+}
+#footer_content a
+{float:right; 
+margin-right:40px;
+color:rgba(229,229,229,1.00);}
+
+#footer_content:hover a
+{color:rgba(243,236,237,1.00);
+text-shadow:none;
+background: #BB1D1F; 
+border-radius:5px;}
+
+#circle{width:10%; 
+overflow:auto; 
+float: left; 
+margin-left:20px; 
+background:#153DBB; 
+border-radius:50%;}
